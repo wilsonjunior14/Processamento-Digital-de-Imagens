@@ -1,0 +1,2 @@
+from gomokutask import GomokuTask
+from relativetask import RelativeGomokuTask
